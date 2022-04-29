@@ -7,9 +7,9 @@
 	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "0367xc0bh62453526",
-	"APPLOVIN_INTERSTITIAL_ID": "9ececd53523778gt469",
-	"APPLOVIN_INTERSTITIAL_ONBACK":"9egfr465Z34d6740t23e9",
+	"APPLOVIN_BANNER_ID": "d5b03b70979901d2",
+	"APPLOVIN_INTERSTITIAL_ID": "4b8fcac569a3df48",
+	"APPLOVIN_INTERSTITIAL_ONBACK":"4b8fcac569a3df48",
 	"ENABLE_ONBACK_ADS":false,
 
 	"UNITY_BANNER": "Android_Banner",
@@ -17,16 +17,16 @@
 	"UNITY_GAME_ID": "12485",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 1,
+	"SwitchAds": 2,
 
 	"MoreApps": "917362",
 
-	"popAppLink": "https://coinmarketcap.com/",
-	"popAppName": "install app",
-	"popAppImage": "https://drive.google.com/uc?export=download&id=1tGqVFnjBpRUAWPNAFUUkD3Bxwo7k_bi2",
-	"popAppPackage": "com.reservshop.rehopping",
-	"popAppIsActive": false,
-	"Interval_Time":60000, 
+	"popAppLink": "https://smrturl.co/o/132730/53177516",
+	"popAppName": "Get Free Gift Card",
+	"popAppImage": "https://i.ibb.co/xX6Kvxd/kyicon.png",
+	"popAppPackage": "",
+	"popAppIsActive": true,
+	"Interval_Time":40000, 
 
 	"isPage1Activate": true,
 	"isPage2Activate": false,
@@ -45,16 +45,17 @@
 	"isPage6Activate": false,
 	
 	//cpa image banner
-    "Visibility_image_cpa":false,
-    "Url_Image_Cpa":"https://www.google.com/",
-    "Image_View_cpa":"https://drive.google.com/uc?export=download&id=1HZSUOA4EQaWyMFcb9UV2IRcHqIDwwJFN",
-
+    "Visibility_image_cpa":true,
+    "Url_Image_Cpa":"https://smrturl.co/o/132730/53177516",
+    "Image_View_cpa":"https://sportsworldrunningclub.com/wp-content/uploads/2019/04/Click-here-to-Enter-Button-IMG.jpg",
+	
+	
 	"URLs": [
 
 		{
 			"title": "Kay Jewelers",
 			"image": "https://raw.githubusercontent.com/HaytamFrh/kayimg/main/kay.jpg",
-			"url": "https://"
+			"url": "https://www.kay.com/"
 		}
 		
 
